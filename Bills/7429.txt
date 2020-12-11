@@ -1,0 +1,23 @@
+	WELCOME SKY RETAIL
+
+ Bill Number : 7429
+ Customer Name : sagnik sarkar
+ Phone Number : 987654321
+===================================
+prodacts		Qty	  prc
+===================================
+Bath soap		1	  40
+Face Cream		1	  120
+Face Wash		1	  60
+Hair spary		1	  180
+Hair Gel		1	  140
+Bath soap		1	  180
+Dal		1	  40
+Rice		1	  40
+Wheat		1	  180
+Sugar		2	  160
+Maza		1	  90
+Thumbs Up		2	  200
+Sprite		1	  75
+-----------------------------------
+Total price			2013.08

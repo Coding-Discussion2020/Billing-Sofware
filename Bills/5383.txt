@@ -1,0 +1,17 @@
+	WELCOME SKY RETAIL
+
+ Bill Number : 5383
+ Customer Name : sagnik 
+ Phone Number : 98745653
+===================================
+prodacts		Qty	  prc
+===================================
+Bath soap		1	  40
+Bath soap		2	  360
+Rice		3	  120
+Sugar		3	  240
+Cock		3	  255
+Frooti		3	  288
+Limca		2	  130
+-----------------------------------
+Total price			1970.6

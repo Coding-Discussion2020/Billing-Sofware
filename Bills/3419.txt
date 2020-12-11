@@ -1,0 +1,16 @@
+	WELCOME SKY RETAIL
+
+ Bill Number : 3419
+ Customer Name : sagnik
+ Phone Number : 78954444
+===================================
+prodacts		Qty	  prc
+===================================
+Bath soap		1	  40
+Hair spary		5	  900
+Tea		3	  120
+Sugar		3	  240
+Cock		2	  170
+Thumbs Up		4	  400
+-----------------------------------
+Total price			2560.6
